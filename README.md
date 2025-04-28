@@ -6,13 +6,11 @@ After downloading **pj1_savedData**, please drag all the file into the root dire
 
 - If the **beta** in **MomentGD** is **0**, then it is **SGD**
 - If you define your layers by the pattern in **hyperparameter_search.py**, you should use **Model_CNN**, otherwise you can just use **Model_MLP**.
-- In training script, you can choose two training set, one is MNIST and another is argumented set from MNIST.
+- In training script, you can choose two training set, one is MNIST and another is an argumented set created from MNIST.
 
 ### Train the model.
 
-Open **hyperparameter_search.py**, modify parameters and run **test_train_cnn.py** after apply the parameters you've changed.
-
-You can choose two dataset to train the model.
+Open **hyperparameter_search.py**, modify parameters and run **test_train_cnn.py** after applying the parameters you've changed and choosing the training set.
 
 ### Test the model.
 
