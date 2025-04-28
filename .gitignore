@@ -17,5 +17,7 @@
 __pycache__/
 /dataset_explore.ipynb
 /test_train.py
+
+# 忽略随机数
 /idx.pickle
 /myidx.pickle
