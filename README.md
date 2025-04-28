@@ -1,6 +1,6 @@
 ### Start Up
 
-After downloading `pj1_savedData`, please drag all the file into the root directory.
+After downloading **pj1_savedData**, please drag all the file into the root directory.
 
 ### Attentions
 
