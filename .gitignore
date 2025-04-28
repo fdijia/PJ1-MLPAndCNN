@@ -1,0 +1,17 @@
+# 忽略模型
+/best_models/
+/saved_models/
+
+# 忽略数据集
+/dataset/
+
+# 忽略图像
+/figs/
+
+# 忽略报告
+/刘丁嘉 22307140049 Report.pdf
+/刘丁嘉 22307140049 Report.md
+
+# 忽略不必要py文件
+__pycache__/
+/dataset_explore.ipynb
