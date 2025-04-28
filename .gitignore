@@ -4,6 +4,7 @@
 
 # 忽略数据集
 /dataset/
+/pj1_savedData/
 
 # 忽略图像
 /figs/
@@ -12,6 +13,9 @@
 /刘丁嘉 22307140049 Report.pdf
 /刘丁嘉 22307140049 Report.md
 
-# 忽略不必要py文件
+# 忽略不必要文件
 __pycache__/
 /dataset_explore.ipynb
+/test_train.py
+/idx.pickle
+/myidx.pickle

@@ -3,6 +3,7 @@ import gzip
 from struct import unpack
 from scipy.ndimage import rotate, shift, zoom
 
+np.random.seed(309)
 train_images_path = r'.\dataset\MNIST\train-images-idx3-ubyte.gz'
 train_labels_path = r'.\dataset\MNIST\train-labels-idx1-ubyte.gz'
 
