@@ -1,5 +1,4 @@
 # 忽略模型
-/best_models/
 /saved_models/
 
 # 忽略数据集
